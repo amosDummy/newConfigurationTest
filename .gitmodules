@@ -1,0 +1,9 @@
+[submodule "AMOS_InputConsole"]
+	path = AMOS_InputConsole
+	url = https://github.com/stubb/AMOS_InputConsole
+[submodule "content111"]
+	path = content111
+	url = https://github.com/amosDummy/content111
+[submodule "AMOS_HMI-Output"]
+	path = AMOS_HMI-Output
+	url = https://github.com/stubb/AMOS_HMI-Output
